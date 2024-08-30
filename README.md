@@ -7,5 +7,5 @@ O objetivo do trabalho é desenvolver uma Máquina de Turing não-determinístic
 Instruções: 
 - a execução do arquivo é feita por linha de comando no seguinte formato:
        ./mt [MT] [Palavra]
-- caso queira ver o diagrama da máquina de turing é preciso installar o python3 e executar o seguinte comendo
+- caso queira ver o diagrama da máquina de turing é preciso installar o python3 e executar o seguinte comando:
        python3 desenho_mt.py
